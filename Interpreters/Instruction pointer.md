@@ -1,0 +1,1 @@
+A Program counter (PC), or more commonly called Instruction Pointer in Intel x86 and Itanium microprocessors is a processor register that indicates where a computer is in its program sequence
