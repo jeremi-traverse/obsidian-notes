@@ -1,7 +1,5 @@
 A DFA is a finite-state machine that accepts or rejects a given string of symbols by running through a state sequence uniquely determined by the given string.
 
-
-
 #### State
 A system is called stateful if it is designed to remember preceding events or user interaction; the remembered information is called a state.
 
