@@ -25,24 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Interpreters/Stack Based VMs.md",
+                "file": "Linux/Char drivers.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "e921f78f8a1fabc6",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.3.7"
-              }
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -108,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Interpreters/Stack Based VMs.md",
+                "file": "Linux/Char drivers.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -125,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Interpreters/Stack Based VMs.md",
+                "file": "Linux/Char drivers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -148,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Interpreters/Stack Based VMs.md"
+                "file": "Linux/Char drivers.md"
               }
             }
           }
@@ -170,27 +160,34 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "e921f78f8a1fabc6",
+  "active": "2c2a3bf4d04a8624",
   "lastOpenFiles": [
+    "Interpreters/Writing an Interpreter in Go/Expression vs Statement.md",
+    "Linux/Char drivers.md",
+    "Linux",
+    "Excalidraw/ParsingGo.excalidraw.md",
+    "Excalidraw/compiler_flow.excalidraw.md",
+    "Excalidraw/Drawing 2023-07-16 14.54.45.excalidraw.md",
+    "Excalidraw/stack_based_vms.excalidraw.md",
+    "Excalidraw/scanning_identifier.excalidraw.md",
+    "Interpreters/Stack Based VMs.md",
+    "Interpreters/Writing an Interpreter in Go/Technical details.md",
+    "cpp/Types of Inheritance.md",
+    "Interpreters/Writing an Interpreter in Go",
+    "Interpreters/Untitled.md",
+    "cpp/The Rule of Five.md",
+    "cpp/References.md",
     "Interpreters/Literal.md",
     "Interpreters/Instruction pointer.md",
     "Interpreters/Constant Instructions.md",
     "Datastructure/Deterministic Finite Automaton (DFA).md",
-    "cpp/Types of Inheritance.md",
     "cpp/Narrowing Conversions.md",
-    "cpp/References.md",
-    "cpp/The Rule of Five.md",
-    "Excalidraw/Drawing 2023-07-16 14.54.45.excalidraw.md",
     "cpp",
     "Compilers/N-Pass Compilation.md",
-    "Excalidraw/compiler_flow.excalidraw.md",
     "Interpreters/Binary Operators.md",
-    "Interpreters/Stack Based VMs.md",
     "Interpreters/Crafting Interpreters/Scanner.md",
-    "Excalidraw/scanning_identifier.excalidraw.md",
     "Compilers",
     "Excalidraw/Drawing 2023-07-03 21.38.10.excalidraw.md",
-    "Excalidraw/stack_based_vms.excalidraw.md",
     "Excalidraw/handle_constant.excalidraw.md",
     "Excalidraw/Untitled.md",
     "Interpreters/Crafting Interpreters/Interpreter Architecture.md",
@@ -198,7 +195,6 @@
     "Excalidraw",
     "literal.md",
     "Interpreters/Crafting Interpreters",
-    "2023-06-29.md",
     "Interpreters"
   ]
 }
