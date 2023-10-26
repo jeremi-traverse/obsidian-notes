@@ -17,3 +17,8 @@ let x = \* slot for expression \* -> a variable declaration is a statement
 throw new Error( \* slot for expression *\ )
 ```
 
+Expressions can be statements : 
+
+```
+1 + 2 + 3
+```

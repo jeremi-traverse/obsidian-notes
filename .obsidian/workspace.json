@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "09d9e7b6aa5c2489",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Interpreters/Writing an Interpreter in Go/Expression vs Statement.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a106f5ceb3ec3bfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Parsers/Pratt Parser.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Linux/Char drivers.md",
+                "file": "Parsers/Pratt Parser.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Linux/Char drivers.md",
+                "file": "Parsers/Pratt Parser.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Linux/Char drivers.md"
+                "file": "Parsers/Pratt Parser.md"
               }
             }
           }
@@ -160,10 +184,12 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "2c2a3bf4d04a8624",
+  "active": "a106f5ceb3ec3bfc",
   "lastOpenFiles": [
-    "Interpreters/Writing an Interpreter in Go/Expression vs Statement.md",
     "Linux/Char drivers.md",
+    "Parsers/Pratt Parser.md",
+    "Interpreters/Writing an Interpreter in Go/Expression vs Statement.md",
+    "Parsers",
     "Linux",
     "Excalidraw/ParsingGo.excalidraw.md",
     "Excalidraw/compiler_flow.excalidraw.md",
@@ -193,7 +219,6 @@
     "Interpreters/Crafting Interpreters/Interpreter Architecture.md",
     "Datastructure",
     "Excalidraw",
-    "literal.md",
     "Interpreters/Crafting Interpreters",
     "Interpreters"
   ]
